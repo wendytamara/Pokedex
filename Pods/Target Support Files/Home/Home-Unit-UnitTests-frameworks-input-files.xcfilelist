@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Home/Home-Unit-UnitTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Home/Home.framework
+${BUILT_PRODUCTS_DIR}/CorePokeDex/CorePokeDex.framework
+${BUILT_PRODUCTS_DIR}/CoreEntities/CoreEntities.framework
