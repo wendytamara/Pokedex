@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         let coord = HomeCoordinator()
         coord.navigationController = self.navigationController
         return coord
-    }
+    } 
     
     @IBOutlet weak var btnEmpezar: UIButton!
     
@@ -27,10 +27,11 @@ class ViewController: UIViewController {
     
 
     override func viewDidLoad() {
-        super.viewDidLoad()
+                super.viewDidLoad()
+
         
-        btnEmpezar.layer.borderWidth = 2
-        btnEmpezar.layer.borderColor = UIColor.black.cgColor
+        homeCoordinator.start()
+
         // Do any additional setup after loading the view.
     }
 
