@@ -7,38 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "0C12E314-34F4-4D9B-919B-7D2B0051E070"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PokeDex/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "btnStart(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "88484A38-3283-4977-8F6C-CACAA70E7F95"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PokeDex/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "14F8E566-713F-431D-B13A-401FCED656D1"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -50,38 +18,6 @@
             endingLineNumber = "20"
             landmarkName = "start()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "14F8E566-713F-431D-B13A-401FCED656D1 - f490ca4bd7cc8b98"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Home.HomeCoordinator.start() -&gt; ()"
-                  moduleName = "Home"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/wquispeq/Documents/PokeDex/Home/Home/Classes/Coordinator/HomeCoordinator.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "380">
-               </Location>
-               <Location
-                  uuid = "14F8E566-713F-431D-B13A-401FCED656D1 - f490ca4bd7cc8b98"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Home.HomeCoordinator.start() -&gt; ()"
-                  moduleName = "Home"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/wquispeq/Documents/PokeDex/Home/Home/Classes/Coordinator/HomeCoordinator.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "220">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -98,6 +34,54 @@
             endingLineNumber = "15"
             landmarkName = "getFirstView()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E5F5EFF-520E-421B-886E-E15B21A53C16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Home/Home/Classes/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "filterPokemonsByName(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E5F5EFF-520E-421B-886E-E15B21A53C16 - a249e5b1b472bacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Home.HomeViewModel.filterPokemonsByName(name: Swift.String) -&gt; Swift.Array&lt;CoreEntities.Pokemon&gt;"
+                  moduleName = "Home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wquispeq/Documents/PokeDex/Home/Home/Classes/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "4E5F5EFF-520E-421B-886E-E15B21A53C16 - 76dca64a0b6d1d32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Home.HomeViewModel.filterPokemonsByName(name: Swift.String) -&gt; ()"
+                  moduleName = "Home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wquispeq/Documents/PokeDex/Home/Home/Classes/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
