@@ -30,7 +30,7 @@ class ViewController: UIViewController {
                 super.viewDidLoad()
 
         
-        homeCoordinator.start()
+//        homeCoordinator.start()
 
         // Do any additional setup after loading the view.
     }
